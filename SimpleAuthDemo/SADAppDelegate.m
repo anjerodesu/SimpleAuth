@@ -51,6 +51,9 @@
     
     // app_id is required
     SimpleAuth.configuration[@"facebook"] = @{};
+    
+    // consumer_key and consumer_secret are required
+    SimpleAuth.configuration[@"tumblr"] = @{};
 }
 
 
